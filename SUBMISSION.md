@@ -21,7 +21,7 @@ The first argument is the Alt-text for the image. The second argument is the pat
   - ![Running ant go-nodeps](images/running-ant-go-nodeps.png)
 
 - [15 pts] A screen capture showing a successful build using the Ant+Ivy script.
-  - ![Successful build using the Ant+Ivy](images/ant-ivy-successful-build.png)
+  - ![Successful build using Ant+Ivy](images/ant-ivy-successful-build.png)
 
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Ant+Ivy build.
   - ![Successful execution of jar file](images/execution-of-JAR-file.png)
@@ -37,10 +37,10 @@ The first argument is the Alt-text for the image. The second argument is the pat
   - ![Directory where maven is installed](images/maven-install-directory.png)
 
 - [10 pts] A screen capture showing a successful build using the Maven script.
-  - ![maven build](images/maven-successful-build.png)
+  - ![Successful build using maven](images/maven-successful-build.png)
 
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
-  - ![maven build](images/maven-execution-of-jar.png)
+  - ![Successful execution of jar file](images/maven-execution-of-jar.png)
 
 - [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
   - [hello-world/pom.xml](hello-world/pom.xml)
@@ -52,10 +52,10 @@ The first argument is the Alt-text for the image. The second argument is the pat
   - ![Directory where gradle is installed](images/gradle-location.png)
 
 - [10 pts] A screen capture showing a successful build using the Gradle script.
-  - ![gradle build](images/gradle-build.png)
+  - ![Successful build using gradle](images/gradle-build.png)
 
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
   - ![Successful execution of jar file](images/gradle-execution-of-jar.png)
 
 - [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
-  - ![hello-world/build.gradle](hello-world/build.gradle)
+  - [hello-world/build.gradle](hello-world/build.gradle)
